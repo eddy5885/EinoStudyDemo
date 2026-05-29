@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Go build & test
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.*
+vendor/
+go.work
+go.work.sum
+
+# go build output (binary name = directory name)
+
+# Runtime & generated data
+**/data/

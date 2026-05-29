@@ -1,0 +1,2 @@
+Eino 是 CloudWeGo 开源的 Go 语言大模型应用框架。
+本文件仅供 lesson06 的 read_demo_file 工具读取练习。
